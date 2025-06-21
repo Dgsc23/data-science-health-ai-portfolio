@@ -47,6 +47,6 @@ Each project folder includes a detailed `README.md` with:
 ### 👤 Author: Dr. David Gramling, PhD
 - Director of Data Science & AI
 - Holistic Health Practitioner
-- Former high school principal and yoga researcher
+- Educator and Yoga Researcher
 
 > For collaborations, visit [https://github.com/Dgsc23](https://github.com/Dgsc23)
