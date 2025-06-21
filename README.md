@@ -7,6 +7,7 @@ Each project folder includes a detailed `README.md` with:
 - Real-world applications
 - Project summary
 - Healthcare, fitness, or business alignment
+- ⚠️ *Some codebases are proprietary and shared only by request when appropriate.*
 
 ---
 
