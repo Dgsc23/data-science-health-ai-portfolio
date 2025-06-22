@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Portfolio Showcase</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Landing Page -->
+    <div id="landing-page" class="page active">
+        <div class="landing-hero">
+            <div class="container">
+                <h1 class="landing-title">AI Portfolio Showcase</h1>
+                <p class="landing-subtitle">Explore 10 innovative AI-powered projects with interactive demos</p>
+                <div class="projects-grid">
+                    <div class="project-card" data-project="1">
+                        <div class="project-card-gradient" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%)"></div>
+                        <div class="project-card-content">
+                            <h3>GPT WordPress Content Generator</h3>
+                            <p>Automated yoga blog content creation with AI</p>
+                            <div class="project-tools">
+                                <span class="tool-tag">GPT-4o</span>
+                                <span class="tool-tag">WordPress</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-project="2">
+                        <div class="project-card-gradient" style="background: linear-gradient(135deg, #667eea 0%, #2196F3 100%)"></div>
+                        <div class="project-card-content">
+                            <h3>Social Media Sponsor Review System</h3>
+                            <p>Transparent sponsor product trial workflow</p>
+                            <div class="project-tools">
+                                <span class="tool-tag">Airtable</span>
+                                <span class="tool-tag">Analytics</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-project="3">
+                        <div class="project-card-gradient" style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%)"></div>
+                        <div class="project-card-content">
+                            <h3>Massage Session Data Map</h3>
+                            <p>Integrative therapeutic protocol mapping</p>
+                            <div class="project-tools">
+                                <span class="tool-tag">PEMF</span>
+                                <span class="tool-tag">BioMat</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-project="4">
+                        <div class="project-card-gradient" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%)"></div>
+                        <div class="project-card-content">
+                            <h3>Yoga Stress Reduction Analysis</h3>
+                            <p>Research on mind-body interventions</p>
+                            <div class="project-tools">
+                                <span class="tool-tag">NVivo</span>
+                                <span class="tool-tag">Research</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-project="5">
+                        <div class="project-card-gradient" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%)"></div>
+                        <div class="project-card-content">
+                            <h3>Recomposition Calorie Models</h3>
+                            <p>Personalized nutrition optimization</p>
+                            <div class="project-tools">
+                                <span class="tool-tag">Modeling</span>
+                                <span class="tool-tag">Nutrition</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-project="6">
+                        <div class="project-card-gradient" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)"></div>
+                        <div class="project-card-content">
+                            <h3>Hypertrophy Clone Model</h3>
+                            <p>Body type muscle gain simulation</p>
+                            <div class="project-tools">
+                                <span class="tool-tag">Modeling</span>
+                                <span class="tool-tag">Fitness</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-project="7">
+                        <div class="project-card-gradient" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)"></div>
+                        <div class="project-card-content">
+                            <h3>Buffer Score Tracker</h3>
+                            <p>Wellness and recovery monitoring</p>
+                            <div class="project-tools">
+                                <span class="tool-tag">Tracking</span>
+                                <span class="tool-tag">Wellness</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-project="8">
+                        <div class="project-card-gradient" style="background: linear-gradient(135deg, #74b9ff 0%, #0984e3 100%)"></div>
+                        <div class="project-card-content">
+                            <h3>Azure ML Data Visuals</h3>
+                            <p>Medical data visualization platform</p>
+                            <div class="project-tools">
+                                <span class="tool-tag">Azure ML</span>
+                                <span class="tool-tag">Analytics</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-project="9">
+                        <div class="project-card-gradient" style="background: linear-gradient(135deg, #636363 0%, #a2ab58 100%)"></div>
+                        <div class="project-card-content">
+                            <h3>Azure SQL Migration (HIPAA)</h3>
+                            <p>Secure medical database migration</p>
+                            <div class="project-tools">
+                                <span class="tool-tag">Azure SQL</span>
+                                <span class="tool-tag">Security</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-project="10">
+                        <div class="project-card-gradient" style="background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)"></div>
+                        <div class="project-card-content">
+                            <h3>Calorie Tracker URL Automation</h3>
+                            <p>Automated form filling system</p>
+                            <div class="project-tools">
+                                <span class="tool-tag">Python</span>
+                                <span class="tool-tag">Automation</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Project Pages -->
+    <div id="project-1" class="page project-page" data-gradient="linear-gradient(135deg, #667eea 0%, #764ba2 100%)">
+        <div class="project-nav">
+            <button class="btn btn--outline back-btn">← Back to Portfolio</button>
+        </div>
+        <div class="project-hero">
+            <div class="container">
+                <h1 class="project-title">GPT-Powered Yoga Content Generator</h1>
+                <p class="project-summary">This tool uses the GPT API and Pexels to create 2,500-word yoga blog articles, auto-embed Amazon affiliate products, and push directly to WordPress.</p>
+            </div>
+        </div>
+        <div class="project-content">
+            <div class="container">
+                <div class="project-sections">
+                    <div class="project-section">
+                        <h3>Tools & Technologies</h3>
+                        <div class="tools-list">
+                            <span class="tool-item">OpenAI GPT-4o</span>
+                            <span class="tool-item">Pexels API</span>
+                            <span class="tool-item">WordPress XML-RPC</span>
+                            <span class="tool-item">Google Sheets</span>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Interactive Demo</h3>
+                        <div class="demo-container">
+                            <div class="demo-form">
+                                <input type="text" id="yoga-topic" class="form-control" placeholder="Enter yoga topic (e.g., 'morning flow')">
+                                <button class="btn btn--primary" id="generate-content">Generate Content</button>
+                            </div>
+                            <div class="demo-output" id="content-output">
+                                <div class="content-preview">
+                                    <h4>Generated Content Preview</h4>
+                                    <div id="generated-text">Click "Generate Content" to see AI-generated yoga blog content...</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Real-World Applications</h3>
+                        <p>Automates content creation, SEO, and monetization for yoga blogs and instructors. Saves hours of writing time while maintaining quality and consistency.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="project-2" class="page project-page" data-gradient="linear-gradient(135deg, #667eea 0%, #2196F3 100%)">
+        <div class="project-nav">
+            <button class="btn btn--outline back-btn">← Back to Portfolio</button>
+        </div>
+        <div class="project-hero">
+            <div class="container">
+                <h1 class="project-title">Social Media Sponsor Review System</h1>
+                <p class="project-summary">6-month sponsor product trial workflow with blind testers, anonymous product rotation, audit logs, and reviewer caption summaries.</p>
+            </div>
+        </div>
+        <div class="project-content">
+            <div class="container">
+                <div class="project-sections">
+                    <div class="project-section">
+                        <h3>Tools & Technologies</h3>
+                        <div class="tools-list">
+                            <span class="tool-item">Airtable</span>
+                            <span class="tool-item">Google Sheets</span>
+                            <span class="tool-item">Private Reviewer Links</span>
+                            <span class="tool-item">Influencer Database</span>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Review Management Demo</h3>
+                        <div class="demo-container">
+                            <div class="review-dashboard">
+                                <div class="review-card">
+                                    <h4>Product: Wellness Supplement</h4>
+                                    <div class="review-status">
+                                        <span class="status status--info">In Review</span>
+                                    </div>
+                                    <div class="reviewer-info">
+                                        <p>Reviewer: Anonymous #1</p>
+                                        <p>Trial Day: 45/180</p>
+                                    </div>
+                                    <div class="rating-stars">
+                                        <span class="star filled">★</span>
+                                        <span class="star filled">★</span>
+                                        <span class="star filled">★</span>
+                                        <span class="star filled">★</span>
+                                        <span class="star">★</span>
+                                    </div>
+                                    <button class="btn btn--secondary update-status">Update Status</button>
+                                </div>
+                                <div class="review-card">
+                                    <h4>Product: Fitness Tracker</h4>
+                                    <div class="review-status">
+                                        <span class="status status--success">Completed</span>
+                                    </div>
+                                    <div class="reviewer-info">
+                                        <p>Reviewer: Anonymous #2</p>
+                                        <p>Trial Day: 180/180</p>
+                                    </div>
+                                    <div class="rating-stars">
+                                        <span class="star filled">★</span>
+                                        <span class="star filled">★</span>
+                                        <span class="star filled">★</span>
+                                        <span class="star filled">★</span>
+                                        <span class="star filled">★</span>
+                                    </div>
+                                    <button class="btn btn--primary">View Report</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Real-World Applications</h3>
+                        <p>Transparency and trust in sponsored content programs. Provides authentic, unbiased product reviews for social media influencers.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="project-3" class="page project-page" data-gradient="linear-gradient(135deg, #11998e 0%, #38ef7d 100%)">
+        <div class="project-nav">
+            <button class="btn btn--outline back-btn">← Back to Portfolio</button>
+        </div>
+        <div class="project-hero">
+            <div class="container">
+                <h1 class="project-title">Massage Session Data Map</h1>
+                <p class="project-summary">Full-body massage protocol including BioMat use, PEMF timing, oil layering, CNS recovery, assisted stretches, and vagal reset techniques.</p>
+            </div>
+        </div>
+        <div class="project-content">
+            <div class="container">
+                <div class="project-sections">
+                    <div class="project-section">
+                        <h3>Tools & Technologies</h3>
+                        <div class="tools-list">
+                            <span class="tool-item">Essential Oils</span>
+                            <span class="tool-item">PEMF</span>
+                            <span class="tool-item">BioMat</span>
+                            <span class="tool-item">NeoRhythm</span>
+                            <span class="tool-item">Recovery Cube</span>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Interactive Protocol Demo</h3>
+                        <div class="demo-container">
+                            <div class="body-diagram">
+                                <div class="protocol-step active" data-step="1">
+                                    <div class="step-number">1</div>
+                                    <div class="step-content">
+                                        <h4>BioMat Setup</h4>
+                                        <p>15 minutes pre-heating at 131°F</p>
+                                        <div class="timer">Timer: <span id="biomat-timer">15:00</span></div>
+                                    </div>
+                                </div>
+                                <div class="protocol-step" data-step="2">
+                                    <div class="step-number">2</div>
+                                    <div class="step-content">
+                                        <h4>PEMF Therapy</h4>
+                                        <p>10 minutes at 10Hz frequency</p>
+                                        <div class="timer">Timer: <span id="pemf-timer">10:00</span></div>
+                                    </div>
+                                </div>
+                                <div class="protocol-step" data-step="3">
+                                    <div class="step-number">3</div>
+                                    <div class="step-content">
+                                        <h4>Oil Application</h4>
+                                        <p>Lavender & eucalyptus blend</p>
+                                        <div class="timer">Timer: <span id="oil-timer">5:00</span></div>
+                                    </div>
+                                </div>
+                                <div class="protocol-step" data-step="4">
+                                    <div class="step-number">4</div>
+                                    <div class="step-content">
+                                        <h4>Massage Therapy</h4>
+                                        <p>Deep tissue with CNS focus</p>
+                                        <div class="timer">Timer: <span id="massage-timer">45:00</span></div>
+                                    </div>
+                                </div>
+                                <button class="btn btn--primary" id="start-protocol">Start Protocol</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Real-World Applications</h3>
+                        <p>Maps integrative therapeutic protocols for nervous system health. Used by massage therapists and wellness practitioners.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="project-4" class="page project-page" data-gradient="linear-gradient(135deg, #f093fb 0%, #f5576c 100%)">
+        <div class="project-nav">
+            <button class="btn btn--outline back-btn">← Back to Portfolio</button>
+        </div>
+        <div class="project-hero">
+            <div class="container">
+                <h1 class="project-title">Yoga Stress Reduction Analysis</h1>
+                <p class="project-summary">Dissertation research on yoga's impact on stress in female medical students using NVivo and qualitative thematic analysis.</p>
+            </div>
+        </div>
+        <div class="project-content">
+            <div class="container">
+                <div class="project-sections">
+                    <div class="project-section">
+                        <h3>Tools & Technologies</h3>
+                        <div class="tools-list">
+                            <span class="tool-item">NVivo</span>
+                            <span class="tool-item">Structured Interviews</span>
+                            <span class="tool-item">Thematic Coding</span>
+                            <span class="tool-item">Stress Rubrics</span>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Stress Assessment Demo</h3>
+                        <div class="demo-container">
+                            <div class="stress-assessment">
+                                <h4>Quick Stress Assessment</h4>
+                                <div class="assessment-questions">
+                                    <div class="question">
+                                        <label>How would you rate your current stress level?</label>
+                                        <div class="stress-scale">
+                                            <input type="range" id="stress-level" min="1" max="10" value="5">
+                                            <div class="scale-labels">
+                                                <span>Low (1)</span>
+                                                <span>High (10)</span>
+                                            </div>
+                                            <div class="current-value">Current: <span id="stress-value">5</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="question">
+                                        <label>How often do you practice mindfulness?</label>
+                                        <select id="mindfulness-frequency" class="form-control">
+                                            <option value="never">Never</option>
+                                            <option value="rarely">Rarely</option>
+                                            <option value="sometimes">Sometimes</option>
+                                            <option value="often">Often</option>
+                                            <option value="daily">Daily</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <button class="btn btn--primary" id="calculate-stress">Calculate Stress Profile</button>
+                                <div class="assessment-results" id="stress-results">
+                                    <h4>Your Stress Profile</h4>
+                                    <div class="result-chart">
+                                        <div class="chart-placeholder">[Stress visualization would appear here]</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Real-World Applications</h3>
+                        <p>Mind-body interventions in academic health settings. Helps medical institutions develop stress management programs.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="project-5" class="page project-page" data-gradient="linear-gradient(135deg, #fa709a 0%, #fee140 100%)">
+        <div class="project-nav">
+            <button class="btn btn--outline back-btn">← Back to Portfolio</button>
+        </div>
+        <div class="project-hero">
+            <div class="container">
+                <h1 class="project-title">Recomposition Calorie Models</h1>
+                <p class="project-summary">Daily calorie model builder based on deficit/maintenance/surplus cycles, NEAT stacking, recovery protocols, and hormonal strategy.</p>
+            </div>
+        </div>
+        <div class="project-content">
+            <div class="container">
+                <div class="project-sections">
+                    <div class="project-section">
+                        <h3>Tools & Technologies</h3>
+                        <div class="tools-list">
+                            <span class="tool-item">Google Sheets</span>
+                            <span class="tool-item">Daily Tracker</span>
+                            <span class="tool-item">Energy Balance Theory</span>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Calorie Calculator Demo</h3>
+                        <div class="demo-container">
+                            <div class="calorie-calculator">
+                                <div class="calc-inputs">
+                                    <div class="input-group">
+                                        <label>Weight (lbs)</label>
+                                        <input type="number" id="weight" class="form-control" value="150">
+                                    </div>
+                                    <div class="input-group">
+                                        <label>Height (inches)</label>
+                                        <input type="number" id="height" class="form-control" value="65">
+                                    </div>
+                                    <div class="input-group">
+                                        <label>Age</label>
+                                        <input type="number" id="age" class="form-control" value="30">
+                                    </div>
+                                    <div class="input-group">
+                                        <label>Activity Level</label>
+                                        <select id="activity-level" class="form-control">
+                                            <option value="1.2">Sedentary</option>
+                                            <option value="1.375">Light Activity</option>
+                                            <option value="1.55" selected>Moderate Activity</option>
+                                            <option value="1.725">Very Active</option>
+                                            <option value="1.9">Extremely Active</option>
+                                        </select>
+                                    </div>
+                                    <div class="input-group">
+                                        <label>Goal</label>
+                                        <select id="goal" class="form-control">
+                                            <option value="deficit">Fat Loss</option>
+                                            <option value="maintenance" selected>Maintenance</option>
+                                            <option value="surplus">Muscle Gain</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <button class="btn btn--primary" id="calculate-calories">Calculate Calories</button>
+                                <div class="calc-results" id="calorie-results">
+                                    <div class="result-card">
+                                        <h4>Your Calorie Plan</h4>
+                                        <div class="calorie-breakdown">
+                                            <div class="calorie-item">
+                                                <span class="label">BMR:</span>
+                                                <span class="value" id="bmr-value">-</span>
+                                            </div>
+                                            <div class="calorie-item">
+                                                <span class="label">TDEE:</span>
+                                                <span class="value" id="tdee-value">-</span>
+                                            </div>
+                                            <div class="calorie-item">
+                                                <span class="label">Target:</span>
+                                                <span class="value" id="target-value">-</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Real-World Applications</h3>
+                        <p>Customized nutrition for fitness, metabolism, and hormone optimization. Used by trainers and nutritionists for client planning.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Continue with remaining projects... -->
+    <div id="project-6" class="page project-page" data-gradient="linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)">
+        <div class="project-nav">
+            <button class="btn btn--outline back-btn">← Back to Portfolio</button>
+        </div>
+        <div class="project-hero">
+            <div class="container">
+                <h1 class="project-title">Hypertrophy Clone Model</h1>
+                <p class="project-summary">Simulation of 3 body types (skinny, overweight/gyno, muscular) to track muscle gain patterns using neuromuscular and hormonal variables.</p>
+            </div>
+        </div>
+        <div class="project-content">
+            <div class="container">
+                <div class="project-sections">
+                    <div class="project-section">
+                        <h3>Tools & Technologies</h3>
+                        <div class="tools-list">
+                            <span class="tool-item">Comparative Modeling</span>
+                            <span class="tool-item">Hypertrophy Research</span>
+                            <span class="tool-item">Endocrinology Alignment</span>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Body Type Simulation Demo</h3>
+                        <div class="demo-container">
+                            <div class="body-type-selector">
+                                <h4>Select Body Type for Simulation</h4>
+                                <div class="body-types">
+                                    <button class="body-type-btn active" data-type="ectomorph">
+                                        <h5>Ectomorph</h5>
+                                        <p>Naturally lean, fast metabolism</p>
+                                    </button>
+                                    <button class="body-type-btn" data-type="endomorph">
+                                        <h5>Endomorph</h5>
+                                        <p>Slower metabolism, gains weight easily</p>
+                                    </button>
+                                    <button class="body-type-btn" data-type="mesomorph">
+                                        <h5>Mesomorph</h5>
+                                        <p>Athletic build, gains muscle easily</p>
+                                    </button>
+                                </div>
+                                <div class="simulation-results">
+                                    <h4>6-Month Muscle Gain Projection</h4>
+                                    <div class="gain-chart">
+                                        <div class="chart-bar">
+                                            <div class="bar-fill" id="muscle-gain-bar" style="width: 40%"></div>
+                                            <span class="bar-label" id="gain-amount">8-12 lbs</span>
+                                        </div>
+                                    </div>
+                                    <div class="simulation-details">
+                                        <p id="simulation-text">Ectomorphs typically gain 8-12 lbs of muscle in 6 months with consistent training and proper nutrition.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Real-World Applications</h3>
+                        <p>Personalized training strategy based on body type and adaptation curves. Helps trainers set realistic expectations and optimize programs.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="project-7" class="page project-page" data-gradient="linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)">
+        <div class="project-nav">
+            <button class="btn btn--outline back-btn">← Back to Portfolio</button>
+        </div>
+        <div class="project-hero">
+            <div class="container">
+                <h1 class="project-title">Buffer Score Tracker</h1>
+                <p class="project-summary">Hormonal fatigue and readiness tracker using subjective wellness scores + structured calorie tracking + activity log.</p>
+            </div>
+        </div>
+        <div class="project-content">
+            <div class="container">
+                <div class="project-sections">
+                    <div class="project-section">
+                        <h3>Tools & Technologies</h3>
+                        <div class="tools-list">
+                            <span class="tool-item">Google Forms</span>
+                            <span class="tool-item">Buffer Score Rubric</span>
+                            <span class="tool-item">Prefill Automation</span>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Wellness Tracking Demo</h3>
+                        <div class="demo-container">
+                            <div class="wellness-tracker">
+                                <h4>Daily Wellness Check-in</h4>
+                                <div class="wellness-metrics">
+                                    <div class="metric">
+                                        <label>Sleep Quality (1-10)</label>
+                                        <input type="range" id="sleep-quality" min="1" max="10" value="7">
+                                        <span class="metric-value" id="sleep-value">7</span>
+                                    </div>
+                                    <div class="metric">
+                                        <label>Energy Level (1-10)</label>
+                                        <input type="range" id="energy-level" min="1" max="10" value="6">
+                                        <span class="metric-value" id="energy-value">6</span>
+                                    </div>
+                                    <div class="metric">
+                                        <label>Mood (1-10)</label>
+                                        <input type="range" id="mood-level" min="1" max="10" value="8">
+                                        <span class="metric-value" id="mood-value">8</span>
+                                    </div>
+                                    <div class="metric">
+                                        <label>Stress Level (1-10)</label>
+                                        <input type="range" id="stress-level-7" min="1" max="10" value="4">
+                                        <span class="metric-value" id="stress-value-7">4</span>
+                                    </div>
+                                </div>
+                                <button class="btn btn--primary" id="calculate-buffer">Calculate Buffer Score</button>
+                                <div class="buffer-results" id="buffer-results">
+                                    <h4>Your Buffer Score</h4>
+                                    <div class="score-display">
+                                        <div class="score-circle">
+                                            <span class="score-number" id="buffer-score">-</span>
+                                            <span class="score-label">Buffer Score</span>
+                                        </div>
+                                    </div>
+                                    <div class="score-interpretation" id="score-interpretation">
+                                        <p>Track your daily wellness to see your buffer score.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Real-World Applications</h3>
+                        <p>Prevents overtraining and supports long-term recovery planning. Used by athletes and fitness enthusiasts to optimize performance.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="project-8" class="page project-page" data-gradient="linear-gradient(135deg, #74b9ff 0%, #0984e3 100%)">
+        <div class="project-nav">
+            <button class="btn btn--outline back-btn">← Back to Portfolio</button>
+        </div>
+        <div class="project-hero">
+            <div class="container">
+                <h1 class="project-title">Azure ML Data Visuals</h1>
+                <p class="project-summary">Visual exploration of medical/lifestyle CSV datasets using Azure ML Studio, including line, bar, and overlay plots.</p>
+            </div>
+        </div>
+        <div class="project-content">
+            <div class="container">
+                <div class="project-sections">
+                    <div class="project-section">
+                        <h3>Tools & Technologies</h3>
+                        <div class="tools-list">
+                            <span class="tool-item">Azure ML Studio</span>
+                            <span class="tool-item">Pandas</span>
+                            <span class="tool-item">Jupyter</span>
+                            <span class="tool-item">Medical CSVs</span>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Data Visualization Demo</h3>
+                        <div class="demo-container">
+                            <div class="data-visualizer">
+                                <h4>Medical Data Visualization</h4>
+                                <div class="chart-controls">
+                                    <select id="chart-type" class="form-control">
+                                        <option value="line">Line Chart</option>
+                                        <option value="bar">Bar Chart</option>
+                                        <option value="scatter">Scatter Plot</option>
+                                    </select>
+                                    <select id="data-metric" class="form-control">
+                                        <option value="blood-pressure">Blood Pressure</option>
+                                        <option value="heart-rate">Heart Rate</option>
+                                        <option value="weight">Weight</option>
+                                        <option value="sleep">Sleep Duration</option>
+                                    </select>
+                                </div>
+                                <div class="chart-container">
+                                    <canvas id="medical-chart" width="400" height="200"></canvas>
+                                </div>
+                                <div class="chart-insights">
+                                    <h5>Data Insights</h5>
+                                    <p id="chart-insights-text">Select chart type and metric to view data visualization and insights.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Real-World Applications</h3>
+                        <p>Visual analytics for clinics, coaching, and research. Helps healthcare providers identify patterns and make data-driven decisions.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="project-9" class="page project-page" data-gradient="linear-gradient(135deg, #636363 0%, #a2ab58 100%)">
+        <div class="project-nav">
+            <button class="btn btn--outline back-btn">← Back to Portfolio</button>
+        </div>
+        <div class="project-hero">
+            <div class="container">
+                <h1 class="project-title">Azure SQL Migration (HIPAA-Secure)</h1>
+                <p class="project-summary">Secure migration of patient databases to Azure SQL with Transparent Data Encryption (TDE), remote access, and encrypted mobile access.</p>
+            </div>
+        </div>
+        <div class="project-content">
+            <div class="container">
+                <div class="project-sections">
+                    <div class="project-section">
+                        <h3>Tools & Technologies</h3>
+                        <div class="tools-list">
+                            <span class="tool-item">SQL Server</span>
+                            <span class="tool-item">Azure SQL</span>
+                            <span class="tool-item">PowerShell</span>
+                            <span class="tool-item">HIPAA Protocols</span>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Migration Progress Demo</h3>
+                        <div class="demo-container">
+                            <div class="migration-simulator">
+                                <h4>Database Migration Monitor</h4>
+                                <div class="migration-steps">
+                                    <div class="step completed">
+                                        <div class="step-icon">✓</div>
+                                        <div class="step-info">
+                                            <h5>Pre-migration Assessment</h5>
+                                            <p>Database compatibility check completed</p>
+                                        </div>
+                                    </div>
+                                    <div class="step completed">
+                                        <div class="step-icon">✓</div>
+                                        <div class="step-info">
+                                            <h5>Security Configuration</h5>
+                                            <p>TDE encryption enabled</p>
+                                        </div>
+                                    </div>
+                                    <div class="step in-progress">
+                                        <div class="step-icon">⟳</div>
+                                        <div class="step-info">
+                                            <h5>Data Migration</h5>
+                                            <p>Transferring patient records...</p>
+                                            <div class="progress-bar">
+                                                <div class="progress-fill" id="migration-progress" style="width: 67%"></div>
+                                            </div>
+                                            <span class="progress-text">67% Complete</span>
+                                        </div>
+                                    </div>
+                                    <div class="step pending">
+                                        <div class="step-icon">○</div>
+                                        <div class="step-info">
+                                            <h5>Post-migration Validation</h5>
+                                            <p>Pending data transfer completion</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <button class="btn btn--primary" id="simulate-migration">Simulate Migration</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Real-World Applications</h3>
+                        <p>Cloud-based secure medical data infrastructure. Enables healthcare organizations to modernize their data systems while maintaining HIPAA compliance.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="project-10" class="page project-page" data-gradient="linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)">
+        <div class="project-nav">
+            <button class="btn btn--outline back-btn">← Back to Portfolio</button>
+        </div>
+        <div class="project-hero">
+            <div class="container">
+                <h1 class="project-title">Calorie Tracker URL Automation</h1>
+                <p class="project-summary">Python automation to prefill a 24-field Google Form including calorie, sleep, activity, and hydration logging.</p>
+            </div>
+        </div>
+        <div class="project-content">
+            <div class="container">
+                <div class="project-sections">
+                    <div class="project-section">
+                        <h3>Tools & Technologies</h3>
+                        <div class="tools-list">
+                            <span class="tool-item">Python</span>
+                            <span class="tool-item">URL Encoding</span>
+                            <span class="tool-item">Google Forms API</span>
+                            <span class="tool-item">Lifestyle Tracker</span>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>URL Generation Demo</h3>
+                        <div class="demo-container">
+                            <div class="url-generator">
+                                <h4>Pre-fill Form Generator</h4>
+                                <div class="form-inputs">
+                                    <div class="input-row">
+                                        <div class="input-group">
+                                            <label>Calories</label>
+                                            <input type="number" id="calories-input" class="form-control" value="2000">
+                                        </div>
+                                        <div class="input-group">
+                                            <label>Sleep Hours</label>
+                                            <input type="number" id="sleep-input" class="form-control" value="8">
+                                        </div>
+                                    </div>
+                                    <div class="input-row">
+                                        <div class="input-group">
+                                            <label>Water (oz)</label>
+                                            <input type="number" id="water-input" class="form-control" value="64">
+                                        </div>
+                                        <div class="input-group">
+                                            <label>Exercise Minutes</label>
+                                            <input type="number" id="exercise-input" class="form-control" value="30">
+                                        </div>
+                                    </div>
+                                    <div class="input-row">
+                                        <div class="input-group">
+                                            <label>Protein (g)</label>
+                                            <input type="number" id="protein-input" class="form-control" value="120">
+                                        </div>
+                                        <div class="input-group">
+                                            <label>Steps</label>
+                                            <input type="number" id="steps-input" class="form-control" value="8000">
+                                        </div>
+                                    </div>
+                                </div>
+                                <button class="btn btn--primary" id="generate-url">Generate Pre-filled URL</button>
+                                <div class="url-output" id="url-output">
+                                    <h5>Generated URL</h5>
+                                    <div class="url-display">
+                                        <code id="generated-url">Click "Generate Pre-filled URL" to create automation link</code>
+                                    </div>
+                                    <div class="url-actions">
+                                        <button class="btn btn--secondary" id="copy-url">Copy URL</button>
+                                        <button class="btn btn--outline" id="test-url">Test Form</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-section">
+                        <h3>Real-World Applications</h3>
+                        <p>Streamlines wellness and nutrition data capture at scale. Saves time for coaches and clients by automating repetitive form filling.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
