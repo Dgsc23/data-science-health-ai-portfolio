@@ -51,7 +51,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 
 ## 🏆 Achievements
 
-- PhD in Education (Leadership in Higher Ed), ERYT-500, Licensed Massage Therapist, Certified Loveologist
+- PhD in Education (Leadership in Higher Ed), ERYT-500, Integrative Health Practioner
 - HIPAA compliance, Azure/AWS data engineering, Python automation
 - Amazon Influencer & monetized YouTube (6 channels, 200+ videos)
 - Multiple proprietary protocols: The Strength BioBuild Somatic System™
