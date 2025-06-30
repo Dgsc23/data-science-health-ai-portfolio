@@ -5,6 +5,14 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 
 ---
 
+## 🌐 Live Websites and Demo Portals
+
+- **Live Demo Page:** [10 Real Working AI Demos – View Now](https://sawdatascience.com/10-of-my-real-working-ai-demos-live-and-ready-to-use-on-this-page/)
+- **GitHub Pages Demo:** [Portfolio GitHub Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/)
+- **Yoga Chatbot (Free Trial):** [Try My Yoga Chatbot](https://chatbot.sawbliss.com/yoga2/mc.html)
+
+---
+
 ## 🚀 Complete Project Portfolio & Demos
 
 | Project                                    | Tech Stack                        | Impact / Key Outcome                              | Demo / Code                      |
@@ -21,6 +29,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 | Azure ML Data Visuals                      | Azure ML Studio, Python, Plotly   | Visualized 2M+ rows, clinical analytics           | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
 | Calorie Tracker URL Automation             | Python, Google Forms API          | Streamlined logging for 100+ users                | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
 | Social Media Growth Predictor              | Python, Scikit-learn              | Predicted 20%+ channel growth                     | [Code](https://github.com/Dgsc23/social-media-analytics-project) |
+| Yoga Chatbot (Free Trial Version)          | HTML, JS, GPT-4                   | Used for pain patients, featured by influencers   | [Try Free](https://chatbot.sawbliss.com/yoga2/mc.html)            |
 
 *Full portfolio and more details: [dgsc23.site/Dgsc23/data-science-health-ai-project/](https://dgsc23.site/Dgsc23/data-science-health-ai-project/)*
 
@@ -51,7 +60,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 
 ## 🏆 Achievements
 
-- PhD in Education (Leadership in Higher Ed), ERYT-500, Integrative Health Practioner
+- PhD in Education (Leadership in Higher Ed), ERYT-500, Integrative Health Practitioner
 - HIPAA compliance, Azure/AWS data engineering, Python automation
 - Amazon Influencer & monetized YouTube (6 channels, 200+ videos)
 - Multiple proprietary protocols: The Strength BioBuild Somatic System™
@@ -62,11 +71,13 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 
 - **Portfolio & Demos:** [dgsc23.site/Dgsc23/data-science-health-ai-project/](https://dgsc23.site/Dgsc23/data-science-health-ai-project/)
 - **Website:** [sawdatascience.com](https://sawdatascience.com)
+- **GitHub Pages Demo:** [Portfolio GitHub Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/)
+- **Yoga Chatbot Free Trial:** [chatbot.sawbliss.com/yoga2/mc.html](https://chatbot.sawbliss.com/yoga2/mc.html)
 - **Code Playground:** [Live Demo & Code](https://sawdatascience.com/live-code-playground-write-preview-and-export-your-code/)
 - **Book a Session:** [Get Started](https://sawdatascience.com/get-started-on-your-data-driven-journey-book-an-appointment-with-dr-david-gramling-ph-d/)
 - **LinkedIn:** [linkedin.com/in/davidgramlingphd](https://linkedin.com/in/davidgramlingphd)
 - **Instagram:** [@dryogatips](https://instagram.com/dryogatips)
-- **YouTube:** [Best Home Products](https://www.youtube.com/channel/UCqN-0uwcaEX4vNOBVLXmqQQ)
+- **YouTube:** [Yoga Tips](https://www.youtube.com/@yogatips)
 - **Amazon Storefront:** [Best Home Products](https://www.amazon.com/shop/sawyogacourses)
 - **(Business email available upon request)**
 
