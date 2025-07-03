@@ -1,6 +1,8 @@
 # Dr. David Gramling, PhD  
 Director of Data Science & AI | Health-Tech Innovator | Health Practitioner
 
+[🎬 **Watch My Portfolio Welcome Video**](https://youtube.com/shorts/4UzG3_wuW6w?si=qcsJQMUvFjDUI7Kx)
+
 PhD-driven leader with 10+ years delivering real-world health-tech impact. I design and deploy scalable, HIPAA-compliant AI systems, advanced analytics, and data-driven wellness protocols—improving patient outcomes, clinician efficiency, and user engagement.
 
 ---
@@ -14,6 +16,8 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ---
 
 ## 🚀 Complete Project Portfolio & Demos
+
+> **All code and outputs below are demo/pseudocode only. Production code and clinical data are proprietary—contact for secure review or collaboration.**
 
 | Project                                    | Tech Stack                        | Impact / Key Outcome                              | Demo / Code                      |
 |---------------------------------------------|-----------------------------------|---------------------------------------------------|-----------------------------------|
