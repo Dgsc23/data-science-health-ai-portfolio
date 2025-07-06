@@ -3,7 +3,11 @@ Director of Data Science & AI | Health-Tech Innovator | Health Practitioner
 
 ![Dr. David Gramling, PhD – Portfolio Banner](./screenshots/banner.png)
 
+## 🎬 Watch My Portfolio Welcome Video
+
 [![Watch My Portfolio Welcome Video](https://img.youtube.com/vi/4UzG3_wuW6w/0.jpg)](https://youtube.com/shorts/4UzG3_wuW6w?si=qcsJQMUvFjDUI7Kx)
+
+*Click the image above to watch my 60-second portfolio overview showcasing AI-powered health solutions and real-world impact.*
 
 PhD-driven leader with 10+ years delivering real-world health-tech impact. I design and deploy scalable, HIPAA-compliant AI systems, advanced analytics, and data-driven wellness protocols—improving patient outcomes, clinician efficiency, and user engagement.
 
@@ -11,7 +15,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 
 ## 🌟 AI Portfolio Showcase
 
-![AI Portfolio Showcase Dashboard](./all-projects-dashboard.png)  
+![AI Portfolio Showcase Dashboard](./screenshots/all-projects-dashboard.png)  
 *At-a-glance dashboard: 10 real-world AI-powered projects covering analytics, automation, and clinical tech solutions.*
 
 ---
@@ -51,7 +55,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ## 🖼️ Project Screenshots & Visuals
 
 ### <a id="azure-sql-migration"></a>Azure SQL Migration (HIPAA-Secure)
-![Azure SQL Migration Demo](./azure-sql-migration-demo.png)  
+![Azure SQL Migration Demo](./screenshots/azure-sql-migration-demo.png)  
 *Live monitoring of a secure, HIPAA-compliant patient data migration to Azure SQL with full encryption and remote access support.*
 
 🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-9)**
@@ -59,7 +63,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ---
 
 ### <a id="gpt-powered-yoga-content-generator"></a>GPT-Powered Yoga Content Generator
-![GPT WordPress Demo](./gpt-wordpress-demo.png)  
+![GPT WordPress Demo](./screenshots/gpt-wordpress-demo.png)  
 *End-to-end AI content pipeline: generate, enhance, and publish yoga blog content with GPT-4 and Pexels API direct to WordPress.*
 
 🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-1)**
@@ -67,7 +71,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ---
 
 ### <a id="buffer-score-tracker"></a>Buffer Score Tracker
-![Buffer Score Tracker Demo](./buffer-score-tracker-demo.png)  
+![Buffer Score Tracker Demo](./screenshots/buffer-score-tracker-demo.png)  
 *Automated tracker for subjective wellness, readiness, and fatigue scores, supporting real-time decision making for clients and clinics.*
 
 🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-7)**
@@ -75,7 +79,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ---
 
 ### <a id="hypertrophy-clone-model"></a>Hypertrophy Clone Model
-![Hypertrophy Clone Model Demo](./hypertrophy-clone-model-demo.png)  
+![Hypertrophy Clone Model Demo](./screenshots/hypertrophy-clone-model-demo.png)  
 *Simulate muscle gain across three body types using comparative modeling—track hypertrophy, metabolism, and hormonal factors.*
 
 🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-6)**
@@ -83,7 +87,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ---
 
 ### <a id="live-code-playground"></a>Live Code Playground
-![Live Code Playground Demo](./live-code-playground-demo.png)  
+![Live Code Playground Demo](./screenshots/live-code-playground-demo.png)  
 *Interactive Live Code Playground—users can instantly write, preview, and export HTML, CSS, and JavaScript code with real-time feedback.*
 
 🔗 **[View Interactive Demo](https://sawdatascience.com/live-code-playground-write-preview-and-export-your-code/)**
@@ -91,7 +95,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ---
 
 ### <a id="social-media-sponsor-review-system"></a>Social Media Sponsor Review System
-![Social Media Sponsor Demo](./social-media-sponsor-demo.png)  
+![Social Media Sponsor Demo](./screenshots/social-media-sponsor-demo.png)  
 *Sponsor review automation for influencer campaigns—track reviews, blind testers, product rotation, and ROI analytics in Airtable.*
 
 🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-2)**
@@ -99,7 +103,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ---
 
 ### <a id="massage-session-data-map"></a>Massage Session Data Map
-![Massage Session Data Map Demo](./massage-session-data-map-demo.png)  
+![Massage Session Data Map Demo](./screenshots/massage-session-data-map-demo.png)  
 *Interactive protocol mapping for 1,000+ massage sessions—integrates BioMat, PEMF, essential oils, and assisted stretching.*
 
 🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-3)**
@@ -107,7 +111,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ---
 
 ### <a id="yoga-stress-reduction-analysis"></a>Yoga Stress Reduction Analysis
-![Yoga Stress Reduction Demo](./yoga-stress-reduction-demo.png)  
+![Yoga Stress Reduction Demo](./screenshots/yoga-stress-reduction-demo.png)  
 *Dissertation-backed stress reduction analytics using NVivo and structured interviews—impacting medical education and curriculum.*
 
 🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-4)**
@@ -115,7 +119,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ---
 
 ### <a id="recomposition-calorie-models"></a>Recomposition Calorie Models
-![Recomposition Calorie Models Demo](./recomposition-calorie-models-demo.png)  
+![Recomposition Calorie Models Demo](./screenshots/recomposition-calorie-models-demo.png)  
 *Custom calorie calculator for daily deficit, maintenance, and surplus cycles, integrating NEAT, recovery, and hormonal strategies.*
 
 🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-5)**
@@ -123,7 +127,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ---
 
 ### <a id="azure-ml-data-visuals"></a>Azure ML Data Visuals
-![Azure ML Data Visuals Demo](./azure-ml-data-visuals-demo.png)  
+![Azure ML Data Visuals Demo](./screenshots/azure-ml-data-visuals-demo.png)  
 *Medical data visualizations built in Azure ML Studio—line, bar, and overlay plots for clinical and lifestyle analytics.*
 
 🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-8)**
@@ -131,7 +135,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ---
 
 ### <a id="calorie-tracker-url-automation"></a>Calorie Tracker URL Automation
-![Calorie Tracker URL Automation Demo](./calorie-tracker-url-automation-demo.png)  
+![Calorie Tracker URL Automation Demo](./screenshots/calorie-tracker-url-automation-demo.png)  
 *Python-powered automation for logging 24 lifestyle fields in Google Forms—including calories, sleep, hydration, and activity—in one click.*
 
 🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-10)**
@@ -141,39 +145,39 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ## 🧩 Notable Side Projects & Technical Components
 
 #### Custom Chatbot JavaScript (main.js)
-![Chatbot JavaScript Core](./chatbot-main-js-code.png)  
+![Chatbot JavaScript Core](./screenshots/chatbot-main-js-code.png)  
 *Excerpt from the core JavaScript (main.js) powering the custom GPT-based chatbot app, supporting dynamic model selection and user API entry.*
 
 #### Custom Chatbot Full App Demo
-![Chatbot App Demo](./chatbot-app-demo..png)  
+![Chatbot App Demo](./screenshots/chatbot-app-demo..png)  
 *End-to-end workflow of the custom GPT chatbot creator, from setup to user response history and testimonials.*
 
 #### Live Code Playground Export Functions
-![Live Code Playground Export Functions](./live-code-playground-export-functions.png)  
+![Live Code Playground Export Functions](./screenshots/live-code-playground-export-functions.png)  
 *JavaScript logic for the Live Code Playground, enabling users to preview and download HTML, CSS, and JS exports on demand.*
 
 #### YouTube Timestamps Code (Python)
-![YouTube Timestamps Python Code](./youtube-timestamps-code.png)  
+![YouTube Timestamps Python Code](./screenshots/youtube-timestamps-code.png)  
 *Key Python functions for generating YouTube transcript-based timestamps, custom summaries, and duration calculations.*
 
 #### YouTube Transcript Timestamp Demo
-![YouTube Transcript Timestamp Demo](./youtube-transcript-timestamp-demo.png)  
+![YouTube Transcript Timestamp Demo](./screenshots/youtube-transcript-timestamp-demo.png)  
 *Output example: generated timestamps and chapter markers for a full YouTube video transcript.*
 
 #### Yin Yoga Chatbot (Glamorous Theme)
-![Yin Yoga Chatbot Glamorous Theme](./chatbot-yinyoga-glamorous-demo.png)  
+![Yin Yoga Chatbot Glamorous Theme](./screenshots/chatbot-yinyoga-glamorous-demo.png)  
 *Custom UI for the Yin Yoga Chatbot using a "Glamorous" color scheme and full ChatGPT API support.*
 
 #### Yin Yoga Chatbot (Default Theme)
-![Yin Yoga Chatbot Default Theme](./chatbot-yinyoga-default-demo.png)  
+![Yin Yoga Chatbot Default Theme](./screenshots/chatbot-yinyoga-default-demo.png)  
 *Yin Yoga Chatbot with a clean default color scheme, showing model and word count options, and a typical chatbot response.*
 
 #### Chatbot App Key Functions (chatbot.js)
-![Chatbot JavaScript Key Functions](./chatbot.js-key-functions.png)  
+![Chatbot JavaScript Key Functions](./screenshots/chatbot.js-key-functions.png)  
 *Key JavaScript functions for chatbot response download, typing effect, and message history handling.*
 
 #### Chatbot Custom Creator Demo
-![Chatbot Custom Creator Demo](./chatbot-custom-creator-demo.png)  
+![Chatbot Custom Creator Demo](./screenshots/chatbot-custom-creator-demo.png)  
 *Interactive UI for building a fully custom chatbot, including email login, theme selection, and design personalization.*
 
 ---
