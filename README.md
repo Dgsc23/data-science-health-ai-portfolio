@@ -204,9 +204,10 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 ## 📈 Impact & Leadership
 
 - **Built & Deployed:** 15+ live demos and apps for health-tech, wellness, and automation, including a high-impact AI system used daily by millions for a top 5 tech company.
-- **Leadership:** Led a 6-person team as a contractor for a top 5 tech company to develop and deploy a globally-scaled AI solution, overseeing end-to-end development and stakeholder collaboration. Solo-led development, testing, and clinical readiness for AI Yoga Chatbot (10,000+ users) and YouTube Timestamps Generator (used by millions of YouTube users).
+- **Leadership:** Led a 6-person team as a contractor for a top 5 tech company to develop and deploy a globally-scaled AI solution, overseeing end-to-end development and stakeholder collaboration; solo-led development, testing, and clinical readiness for AI Yoga Chatbot (10,000+ users) and YouTube Timestamps Generator (used by millions of YouTube users).
 - **Subject Matter Expertise:** Served as a neuroscience expert for a billion-dollar company, designing and reviewing medical school exam content to enhance clinical education.
-- **Clinical Impact:** Delivered 5,000+ hours of functional restoration, serving 15+ patients/week at East Highland Chiro with 1-hour sessions—4–8x longer than standard medical visits.
+- **Content Automation:** Developed an automated system enabling 30 websites to achieve Google News publisher status with direct posting capabilities, streamlining content distribution.
+- **Clinical Impact:** Delivered 5,000+ hours of functional restoration, serving 15+ patients/week at East Highland Chiro with 1-hour sessions, 4–8x longer than standard medical visits.
 - **Data Migration:** Managed HIPAA-compliant migration of large-scale patient data to Azure SQL, ensuring secure and efficient clinical analytics.
 - **Data Science & Automation:** Developed 10+ AI-driven projects, including a Live Code Playground used by 1,000+ learners and a GPT-powered WordPress content generator boosting blog traffic by 5X (100+ posts/month).
 - **Education & Mentorship:** Taught Biology and AP Biomedical Science to 100+ high school students; mentored yoga teacher training, certifying multiple instructors.
