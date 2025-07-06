@@ -203,14 +203,16 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 
 ## 📈 Impact & Leadership
 
-- **Built & Deployed:** 12+ live demos and apps for health-tech, wellness, and automation
-- **Data Migration:** HIPAA-compliant migration of 2M patient records, $500K+ operational savings
-- **Patient Outcomes:** Tracked 5,000+ clinical sessions; improved outcomes by 15%
-- **Automated Analytics:** Buffer score/calorie models used >400 days; tracked 1,000+ daily entries
-- **Content Automation:** 5X increase in blog traffic, 100+ posts/month with AI
-- **Education & Influence:** 100+ students (high school, yoga), 1,000+ learners via code playground
-- **Social Media Reach:** 80K+ YouTube subs (across channels), 130K+ Instagram followers, Amazon Platinum Influencer
-- **Clinical Practice:** 5,000+ hours functional restoration, 15+ patients/week at East Highland Chiro, 4–6 hours/day hands-on
+- **Built & Deployed:** 15+ live demos and apps for health-tech, wellness, and automation—including an AI system used daily by millions for a top 5 tech company
+- **Leadership:** Led a 6-person team for a Fortune 5 client to deploy a global AI solution; solo-led AI Yoga Chatbot (10,000+ users) and YouTube Timestamps Generator (millions of users)
+- **Subject Matter Expertise:** Neuroscience SME for a billion-dollar company; designed and reviewed med school exam content
+- **Data Migration:** HIPAA-compliant migration of 2M+ patient records, saving $500K+ in operations
+- **Patient Outcomes:** Tracked 5,000+ clinical sessions, improving outcomes by 15% through protocol optimization
+- **Automated Analytics:** Buffer score/calorie models used 400+ days; tracked 1,000+ daily wellness entries
+- **Content Automation:** 5X increase in blog traffic; generated 100+ posts/month using AI
+- **Education & Influence:** Mentored 100+ students (high school/yoga), supported 1,000+ learners via live code playgrounds
+- **Social Media Reach:** 80K+ YouTube subscribers (across 6 channels), 130K+ Instagram followers, Amazon Platinum Influencer
+- **Clinical Practice:** 5,000+ hours functional restoration, serving 15+ patients/week at East Highland Chiro, 4–6 hours/day hands-on
 
 ---
 
