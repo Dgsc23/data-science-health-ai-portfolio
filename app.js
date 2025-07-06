@@ -6,7 +6,26 @@ let timers = {};
 document.addEventListener('DOMContentLoaded', function() {
     initializeNavigation();
     initializeProjectDemos();
+    
+    // Handle initial hash on page load
+    handleHashChange();
+    
+    // Listen for hash changes
+    window.addEventListener('hashchange', handleHashChange);
 });
+
+// Handle URL hash changes
+function handleHashChange() {
+    const hash = window.location.hash.slice(1); // Remove the #
+    
+    if (hash && hash.startsWith('project-')) {
+        // Extract project number from hash
+        const projectNumber = hash.replace('project-', '');
+        showProject(projectNumber);
+    } else if (hash === '' || hash === 'home') {
+        showLandingPage();
+    }
+}
 
 // Navigation System
 function initializeNavigation() {
@@ -15,7 +34,8 @@ function initializeNavigation() {
     projectCards.forEach(card => {
         card.addEventListener('click', function() {
             const projectId = this.dataset.project;
-            showProject(projectId);
+            // Update URL hash when clicking a project
+            window.location.hash = `project-${projectId}`;
         });
     });
 
@@ -23,7 +43,8 @@ function initializeNavigation() {
     const backButtons = document.querySelectorAll('.back-btn');
     backButtons.forEach(btn => {
         btn.addEventListener('click', function() {
-            showLandingPage();
+            // Go back to home
+            window.location.hash = '';
         });
     });
 }
@@ -45,6 +66,9 @@ function showProject(projectId) {
             projectPage.style.transition = 'opacity 0.3s ease';
             projectPage.style.opacity = '1';
         }, 50);
+        
+        // Scroll to top
+        window.scrollTo(0, 0);
     }
 }
 
