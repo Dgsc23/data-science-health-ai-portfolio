@@ -235,8 +235,7 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 - **Instagram:** [@dryogatips](https://instagram.com/dryogatips)
 - **YouTube:** [Yoga Tips](https://www.youtube.com/@yogatips)
 - **Amazon Storefront:** [Best Home Products](https://www.amazon.com/shop/sawyogacourses)
-- **(Business email available upon request)**
-
+- **Business Email:** info@sawbliss.com
 ---
 
 **Let's connect!**
