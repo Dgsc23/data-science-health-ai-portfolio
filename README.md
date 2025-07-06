@@ -203,16 +203,15 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 
 ## 📈 Impact & Leadership
 
-- **Built & Deployed:** 15+ live demos and apps for health-tech, wellness, and automation—including an AI system used daily by millions for a top 5 tech company
-- **Leadership:** Led a 6-person team for a Fortune 5 client to deploy a global AI solution; solo-led AI Yoga Chatbot (10,000+ users) and YouTube Timestamps Generator (millions of users)
-- **Subject Matter Expertise:** Neuroscience SME for a billion-dollar company; designed and reviewed med school exam content
-- **Data Migration:** HIPAA-compliant migration of 2M+ patient records, saving $500K+ in operations
-- **Patient Outcomes:** Tracked 5,000+ clinical sessions, improving outcomes by 15% through protocol optimization
-- **Automated Analytics:** Buffer score/calorie models used 400+ days; tracked 1,000+ daily wellness entries
-- **Content Automation:** 5X increase in blog traffic; generated 100+ posts/month using AI
-- **Education & Influence:** Mentored 100+ students (high school/yoga), supported 1,000+ learners via live code playgrounds
-- **Social Media Reach:** 80K+ YouTube subscribers (across 6 channels), 130K+ Instagram followers, Amazon Platinum Influencer
-- **Clinical Practice:** 5,000+ hours functional restoration, serving 15+ patients/week at East Highland Chiro, 4–6 hours/day hands-on
+- **Built & Deployed:** 15+ live demos and apps for health-tech, wellness, and automation, including a high-impact AI system used daily by millions for a top 5 tech company.
+- **Leadership:** Led a 6-person team as a contractor for a top 5 tech company to develop and deploy a globally-scaled AI solution, overseeing end-to-end development and stakeholder collaboration. Solo-led development, testing, and clinical readiness for AI Yoga Chatbot (10,000+ users) and YouTube Timestamps Generator (used by millions of YouTube users).
+- **Subject Matter Expertise:** Served as a neuroscience expert for a billion-dollar company, designing and reviewing medical school exam content to enhance clinical education.
+- **Clinical Impact:** Delivered 5,000+ hours of functional restoration, serving 15+ patients/week at East Highland Chiro with 1-hour sessions—4–8x longer than standard medical visits.
+- **Data Migration:** Managed HIPAA-compliant migration of large-scale patient data to Azure SQL, ensuring secure and efficient clinical analytics.
+- **Data Science & Automation:** Developed 10+ AI-driven projects, including a Live Code Playground used by 1,000+ learners and a GPT-powered WordPress content generator boosting blog traffic by 5X (100+ posts/month).
+- **Education & Mentorship:** Taught Biology and AP Biomedical Science to 100+ high school students; mentored yoga teacher training, certifying multiple instructors.
+- **Social Media Influence:** Grew to 80K+ YouTube subscribers across 6 channels with 200+ videos and 130K+ Instagram followers; achieved Amazon Platinum Influencer status via data-driven content strategies.
+- **Wellness Analytics:** Built buffer score and calorie models, tracking 1,000+ daily entries over 400+ days to optimize patient and personal wellness outcomes.
 
 ---
 
