@@ -1,9 +1,18 @@
 # Dr. David Gramling, PhD  
 Director of Data Science & AI | Health-Tech Innovator | Health Practitioner
 
-[🎬 **Watch My Portfolio Welcome Video**](https://youtube.com/shorts/4UzG3_wuW6w?si=qcsJQMUvFjDUI7Kx)
+![Dr. David Gramling, PhD – Portfolio Banner](./screenshots/banner.png)
+
+[![Watch My Portfolio Welcome Video](https://img.youtube.com/vi/4UzG3_wuW6w/0.jpg)](https://youtube.com/shorts/4UzG3_wuW6w?si=qcsJQMUvFjDUI7Kx)
 
 PhD-driven leader with 10+ years delivering real-world health-tech impact. I design and deploy scalable, HIPAA-compliant AI systems, advanced analytics, and data-driven wellness protocols—improving patient outcomes, clinician efficiency, and user engagement.
+
+---
+
+## 🌟 AI Portfolio Showcase
+
+![AI Portfolio Showcase Dashboard](./all-projects-dashboard.png)  
+*At-a-glance dashboard: 10 real-world AI-powered projects covering analytics, automation, and clinical tech solutions.*
 
 ---
 
@@ -21,21 +30,151 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 
 | Project                                    | Tech Stack                        | Impact / Key Outcome                              | Demo / Code                      |
 |---------------------------------------------|-----------------------------------|---------------------------------------------------|-----------------------------------|
-| Azure SQL Migration                        | Azure SQL, PowerShell             | Migrated 2M records, saved $500K                  | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
-| GPT WordPress Content Generator             | Python, GPT-4, WP API, Pexels     | 5X blog traffic, 100+ posts/month                 | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
-| Buffer Score Tracker                       | Python, Google Forms/Sheets       | Prevented burnout for 10+ clients                 | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
-| Hypertrophy Clone Model                    | Python, Pandas                    | 15% outcome improvement, 5,000+ tracked sessions  | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
-| Live Code Playground                       | HTML, JS, CodeMirror              | 1,000+ learners                                   | [Demo & Code](https://sawdatascience.com/live-code-playground-write-preview-and-export-your-code/) |
-| Social Media Sponsor System                | Airtable, Google Sheets           | 100% positive review/ROI tracking                 | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
-| Massage Session Data Map                   | HTML, JS, PEMF/BioMat             | Standardized 1,000+ therapy sessions              | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
-| Yoga Stress Reduction Analysis             | NVivo, Statistical Scales         | Informed medical curricula                        | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
-| Recomposition Calorie/Buffer Models        | Python, Google Sheets             | Used for 400+ days, 1,000+ tracked daily entries  | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
-| Azure ML Data Visuals                      | Azure ML Studio, Python, Plotly   | Visualized 2M+ rows, clinical analytics           | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
-| Calorie Tracker URL Automation             | Python, Google Forms API          | Streamlined logging for 100+ users                | [Demo](https://dgsc23.site/Dgsc23/data-science-health-ai-project/) |
+| [Azure SQL Migration](#azure-sql-migration)                        | Azure SQL, PowerShell             | Migrated 2M records, saved $500K                  | [Live Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-9) |
+| [GPT WordPress Content Generator](#gpt-powered-yoga-content-generator)             | Python, GPT-4, WP API, Pexels     | 5X blog traffic, 100+ posts/month                 | [Live Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-1) |
+| [Buffer Score Tracker](#buffer-score-tracker)                       | Python, Google Forms/Sheets       | Prevented burnout for 10+ clients                 | [Live Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-7) |
+| [Hypertrophy Clone Model](#hypertrophy-clone-model)                    | Python, Pandas                    | 15% outcome improvement, 5,000+ tracked sessions  | [Live Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-6) |
+| [Live Code Playground](#live-code-playground)                       | HTML, JS, CodeMirror              | 1,000+ learners                                   | [Demo & Code](#live-code-playground) |
+| [Social Media Sponsor System](#social-media-sponsor-review-system)                | Airtable, Google Sheets           | 100% positive review/ROI tracking                 | [Live Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-2) |
+| [Massage Session Data Map](#massage-session-data-map)                   | HTML, JS, PEMF/BioMat             | Standardized 1,000+ therapy sessions              | [Live Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-3) |
+| [Yoga Stress Reduction Analysis](#yoga-stress-reduction-analysis)             | NVivo, Statistical Scales         | Informed medical curricula                        | [Live Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-4) |
+| [Recomposition Calorie/Buffer Models](#recomposition-calorie-models)        | Python, Google Sheets             | Used for 400+ days, 1,000+ tracked daily entries  | [Live Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-5) |
+| [Azure ML Data Visuals](#azure-ml-data-visuals)                      | Azure ML Studio, Python, Plotly   | Visualized 2M+ rows, clinical analytics           | [Live Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-8) |
+| [Calorie Tracker URL Automation](#calorie-tracker-url-automation)             | Python, Google Forms API          | Streamlined logging for 100+ users                | [Live Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-10) |
 | Social Media Growth Predictor              | Python, Scikit-learn              | Predicted 20%+ channel growth                     | [Code](https://github.com/Dgsc23/social-media-analytics-project) |
-| Yoga Chatbot (Free Trial Version)          | HTML, JS, GPT-4                   | Used for pain patients, featured by influencers   | [Try Free](https://chatbot.sawbliss.com/yoga2/mc.html)            |
+| [Yoga Chatbot (Free Trial Version)](#yoga-chatbot-free-trial-version)          | HTML, JS, GPT-4                   | Used for pain patients, featured by influencers   | [Try Free](https://chatbot.sawbliss.com/yoga2/mc.html)            |
 
 *Full portfolio and more details: [dgsc23.site/Dgsc23/data-science-health-ai-project/](https://dgsc23.site/Dgsc23/data-science-health-ai-project/)*
+
+---
+
+## 🖼️ Project Screenshots & Visuals
+
+### <a id="azure-sql-migration"></a>Azure SQL Migration (HIPAA-Secure)
+![Azure SQL Migration Demo](./azure-sql-migration-demo.png)  
+*Live monitoring of a secure, HIPAA-compliant patient data migration to Azure SQL with full encryption and remote access support.*
+
+🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-9)**
+
+---
+
+### <a id="gpt-powered-yoga-content-generator"></a>GPT-Powered Yoga Content Generator
+![GPT WordPress Demo](./gpt-wordpress-demo.png)  
+*End-to-end AI content pipeline: generate, enhance, and publish yoga blog content with GPT-4 and Pexels API direct to WordPress.*
+
+🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-1)**
+
+---
+
+### <a id="buffer-score-tracker"></a>Buffer Score Tracker
+![Buffer Score Tracker Demo](./buffer-score-tracker-demo.png)  
+*Automated tracker for subjective wellness, readiness, and fatigue scores, supporting real-time decision making for clients and clinics.*
+
+🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-7)**
+
+---
+
+### <a id="hypertrophy-clone-model"></a>Hypertrophy Clone Model
+![Hypertrophy Clone Model Demo](./hypertrophy-clone-model-demo.png)  
+*Simulate muscle gain across three body types using comparative modeling—track hypertrophy, metabolism, and hormonal factors.*
+
+🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-6)**
+
+---
+
+### <a id="live-code-playground"></a>Live Code Playground
+![Live Code Playground Demo](./live-code-playground-demo.png)  
+*Interactive Live Code Playground—users can instantly write, preview, and export HTML, CSS, and JavaScript code with real-time feedback.*
+
+🔗 **[View Interactive Demo](https://sawdatascience.com/live-code-playground-write-preview-and-export-your-code/)**
+
+---
+
+### <a id="social-media-sponsor-review-system"></a>Social Media Sponsor Review System
+![Social Media Sponsor Demo](./social-media-sponsor-demo.png)  
+*Sponsor review automation for influencer campaigns—track reviews, blind testers, product rotation, and ROI analytics in Airtable.*
+
+🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-2)**
+
+---
+
+### <a id="massage-session-data-map"></a>Massage Session Data Map
+![Massage Session Data Map Demo](./massage-session-data-map-demo.png)  
+*Interactive protocol mapping for 1,000+ massage sessions—integrates BioMat, PEMF, essential oils, and assisted stretching.*
+
+🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-3)**
+
+---
+
+### <a id="yoga-stress-reduction-analysis"></a>Yoga Stress Reduction Analysis
+![Yoga Stress Reduction Demo](./yoga-stress-reduction-demo.png)  
+*Dissertation-backed stress reduction analytics using NVivo and structured interviews—impacting medical education and curriculum.*
+
+🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-4)**
+
+---
+
+### <a id="recomposition-calorie-models"></a>Recomposition Calorie Models
+![Recomposition Calorie Models Demo](./recomposition-calorie-models-demo.png)  
+*Custom calorie calculator for daily deficit, maintenance, and surplus cycles, integrating NEAT, recovery, and hormonal strategies.*
+
+🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-5)**
+
+---
+
+### <a id="azure-ml-data-visuals"></a>Azure ML Data Visuals
+![Azure ML Data Visuals Demo](./azure-ml-data-visuals-demo.png)  
+*Medical data visualizations built in Azure ML Studio—line, bar, and overlay plots for clinical and lifestyle analytics.*
+
+🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-8)**
+
+---
+
+### <a id="calorie-tracker-url-automation"></a>Calorie Tracker URL Automation
+![Calorie Tracker URL Automation Demo](./calorie-tracker-url-automation-demo.png)  
+*Python-powered automation for logging 24 lifestyle fields in Google Forms—including calories, sleep, hydration, and activity—in one click.*
+
+🔗 **[View Interactive Demo](https://dgsc23.github.io/data-science-health-ai-portfolio/#project-10)**
+
+---
+
+## 🧩 Notable Side Projects & Technical Components
+
+#### Custom Chatbot JavaScript (main.js)
+![Chatbot JavaScript Core](./chatbot-main-js-code.png)  
+*Excerpt from the core JavaScript (main.js) powering the custom GPT-based chatbot app, supporting dynamic model selection and user API entry.*
+
+#### Custom Chatbot Full App Demo
+![Chatbot App Demo](./chatbot-app-demo..png)  
+*End-to-end workflow of the custom GPT chatbot creator, from setup to user response history and testimonials.*
+
+#### Live Code Playground Export Functions
+![Live Code Playground Export Functions](./live-code-playground-export-functions.png)  
+*JavaScript logic for the Live Code Playground, enabling users to preview and download HTML, CSS, and JS exports on demand.*
+
+#### YouTube Timestamps Code (Python)
+![YouTube Timestamps Python Code](./youtube-timestamps-code.png)  
+*Key Python functions for generating YouTube transcript-based timestamps, custom summaries, and duration calculations.*
+
+#### YouTube Transcript Timestamp Demo
+![YouTube Transcript Timestamp Demo](./youtube-transcript-timestamp-demo.png)  
+*Output example: generated timestamps and chapter markers for a full YouTube video transcript.*
+
+#### Yin Yoga Chatbot (Glamorous Theme)
+![Yin Yoga Chatbot Glamorous Theme](./chatbot-yinyoga-glamorous-demo.png)  
+*Custom UI for the Yin Yoga Chatbot using a "Glamorous" color scheme and full ChatGPT API support.*
+
+#### Yin Yoga Chatbot (Default Theme)
+![Yin Yoga Chatbot Default Theme](./chatbot-yinyoga-default-demo.png)  
+*Yin Yoga Chatbot with a clean default color scheme, showing model and word count options, and a typical chatbot response.*
+
+#### Chatbot App Key Functions (chatbot.js)
+![Chatbot JavaScript Key Functions](./chatbot.js-key-functions.png)  
+*Key JavaScript functions for chatbot response download, typing effect, and message history handling.*
+
+#### Chatbot Custom Creator Demo
+![Chatbot Custom Creator Demo](./chatbot-custom-creator-demo.png)  
+*Interactive UI for building a fully custom chatbot, including email login, theme selection, and design personalization.*
 
 ---
 
@@ -87,9 +226,9 @@ PhD-driven leader with 10+ years delivering real-world health-tech impact. I des
 
 ---
 
-**Let’s connect!**  
-If you’re interested in innovative, AI-powered health-tech solutions, wellness analytics, or executive consulting, explore my demos or [book a 1:1 session](https://sawdatascience.com/get-started-on-your-data-driven-journey-book-an-appointment-with-dr-david-gramling-ph-d/).
+**Let's connect!**  
+If you're interested in innovative, AI-powered health-tech solutions, wellness analytics, or executive consulting, explore my demos or [book a 1:1 session](https://sawdatascience.com/get-started-on-your-data-driven-journey-book-an-appointment-with-dr-david-gramling-ph-d/).
 
 ---
 
-<!-- Add images, screenshots, or architecture diagrams as needed below this line for each project! -->
+<!-- Screenshots, code snippets, and visuals integrated above. For extra visuals, see subfolder READMEs or request a secure code review. -->
