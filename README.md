@@ -7,7 +7,7 @@ Director of Data Science & AI | Health-Tech Innovator | Health Practitioner
 
 [![Watch My Portfolio Welcome Video](https://img.youtube.com/vi/4UzG3_wuW6w/0.jpg)](https://youtube.com/shorts/4UzG3_wuW6w?si=qcsJQMUvFjDUI7Kx)
 
-*Click the image above to watch my 60-second portfolio overview showcasing AI-powered health solutions and real-world impact.*
+*Click the image above to watch my 45-second portfolio overview showcasing AI-powered health solutions and real-world impact.*
 
 PhD-driven leader with 10+ years delivering real-world health-tech impact. I design and deploy scalable, HIPAA-compliant AI systems, advanced analytics, and data-driven wellness protocols—improving patient outcomes, clinician efficiency, and user engagement.
 
